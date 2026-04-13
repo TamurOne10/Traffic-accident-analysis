@@ -1,16 +1,16 @@
-# 🚦 Traffic Accident Analysis & Prediction
+# 🔗 Traffic Accident Analysis & Prediction
 ### Data-Driven Insights for Road Safety Improvement
 
 ---
 
-## 🧑‍💻 Project Overview
+## 🔗 Project Overview
 This project analyzes over **209,000+ traffic accident records** to uncover patterns, identify key risk factors, and generate actionable insights for improving road safety.
 
 The analysis focuses on accident trends, severity, and contributing factors, while also preparing the dataset for future **machine learning models**.
 
 ---
 
-## 🎯 Objectives
+## 🔗 Objectives
 - Analyze traffic accident patterns over time  
 - Identify key contributing factors  
 - Study the impact of weather, lighting, and road conditions  
@@ -20,17 +20,17 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## 📊 Dataset Summary
+## 🔗 Dataset Summary
 - **Total Records:** 209,306  
 - **Total Features:** 24  
 - **Data Quality:** No missing values  
 
-### 📌 Data Types
+### 🔗 Data Types
 - **Categorical (object):** 14 columns  
 - **Float (float64):** 6 columns  
 - **Integer (int64):** 4 columns  
 
-### 🔑 Key Features
+### 🔗 Key Features
 - **Time:** `crash_date`, `crash_hour`, `crash_day_of_week`, `crash_month`  
 - **Environment:** `weather_condition`, `lighting_condition`  
 - **Road Conditions:** `trafficway_type`, `roadway_surface_cond`  
@@ -39,7 +39,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## 🔗 Exploratory Data Analysis (EDA)
 
 ### 🚗 Vehicles Involved
 - Average vehicles per crash: **~2**
@@ -47,42 +47,42 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-### 🩺 Injury Analysis
+### 🔗 Injury Analysis
 - Average injuries per crash: **0.38**
 - Fatal injuries are **rare**
 - Most accidents result in **minor or no injuries**
 
 ---
 
-### ⏰ Crash Timing
+### 🔗 Crash Timing
 - Peak accident hour: **17 (5 PM)** — Rush hour  
 - Lowest accident hour: **4 AM** — Minimal traffic  
 - Accidents occur throughout **all days and months**
 
 ---
 
-### 🌦 Weather Conditions
+### 🔗 Weather Conditions
 - Most accidents occur in **clear weather**
 - Rain increases risk due to **slippery roads**
 - Visibility alone does not prevent accidents  
 
 ---
 
-### 🌆 Lighting Conditions
+### 🔗 Lighting Conditions
 - Majority occur during **daylight**
 - Night conditions still show significant accidents  
 - Dusk/Dawn contribute due to **low visibility**
 
 ---
 
-### 🚧 Traffic Control Devices
+### 🔗 Traffic Control Devices
 - Highest accidents at **traffic signals**
 - Second highest at **stop signs**
 - Accidents also occur where **no control devices exist**
 
 ---
 
-### 🔄 Crash Types
+### 🔗 Crash Types
 - Most common: **Turning accidents**
 - Other major types:
   - Angle crashes  
@@ -91,7 +91,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-### 🛣 Trafficway Type
+### 🔗 Trafficway Type
 - Highest accidents on **non-divided roads**
 - Lower accidents on:
   - One-way roads  
