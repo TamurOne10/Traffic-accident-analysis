@@ -108,7 +108,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## ⚠️ Risk Factors
+## 🔗  Risk Factors
 - Rush hour congestion  
 - Driver fatigue and stress  
 - Poor visibility (dusk/dawn)  
@@ -117,7 +117,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## 💡 Recommendations
+## 🔗 Recommendations
 - Improve **traffic signal enforcement**  
 - Enhance **road infrastructure (dividers, barriers)**  
 - Increase **driver awareness campaigns**  
@@ -126,7 +126,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## 🛠 Tools & Technologies
+## 🔗 Tools & Technologies
 - Python  
 - Pandas  
 - NumPy  
@@ -136,12 +136,12 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 
 ---
 
-## 🤖 Future Work
+## 🔗 Future Work
 - Build models to predict:
   - Accident severity  
   - Injury probability  
 
-### 📌 Algorithms
+### 🔗 Algorithms
 - Logistic Regression  
 - Random Forest  
 - XGBoost  
