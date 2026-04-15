@@ -51,6 +51,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Average injuries per crash: **0.38**
 - Fatal injuries are **rare**
 - Most accidents result in **minor or no injuries**
+ <img width="1280" height="450" alt="10" src="https://github.com/user-attachments/assets/cbf3045b-13b8-4c8f-aebb-07f80adb9281" />
 
 ---
 
@@ -67,6 +68,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Most accidents occur in **clear weather**
 - Rain increases risk due to **slippery roads**
 - Visibility alone does not prevent accidents  
+<img width="1280" height="450" alt="3" src="https://github.com/user-attachments/assets/a0367cac-54d7-40fa-8d96-c722084dd898" />
 
 ---
 
@@ -74,6 +76,7 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Majority occur during **daylight**
 - Night conditions still show significant accidents  
 - Dusk/Dawn contribute due to **low visibility**
+<img width="1280" height="450" alt="4" src="https://github.com/user-attachments/assets/fdb93487-38e8-419d-ae5f-38e40264a274" />
 
 ---
 
@@ -81,6 +84,8 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Highest accidents at **traffic signals**
 - Second highest at **stop signs**
 - Accidents also occur where **no control devices exist**
+
+<img width="1280" height="450" alt="newplot" src="https://github.com/user-attachments/assets/4e5e70ae-c2a1-424b-b3bd-e00d917ea766" />
 
 ---
 
@@ -91,13 +96,15 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
   - Rear-end collisions  
   - Sideswipe accidents  
 
+
 ---
 
 ### 🔗 Trafficway Type
 - Highest accidents on **non-divided roads**
 - Lower accidents on:
   - One-way roads  
-  - Roads with median barriers  
+  - Roads with median barriers
+  - <img width="1200" height="800" alt="6" src="https://github.com/user-attachments/assets/6b7d6a63-6f0a-47f9-aa55-577b81ba867e" />
 
 ---
 
