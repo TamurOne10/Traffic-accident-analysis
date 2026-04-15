@@ -61,6 +61,46 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Accidents occur throughout **all days and months**
 - <img width="1280" height="450" alt="1" src="https://github.com/user-attachments/assets/53093dbf-0496-4406-aa3f-de6bc2dc0075" />
 
+---
+
+## 💥 Damage Severity Distribution
+
+- Most crashes fall under **Over $1,500** damage, showing that a large share of incidents are financially significant.
+- **$501–$1,500** is the second most common range.
+- **$500 or less** is the least common among the main damage categories.
+- This suggests many crashes lead to moderate to high property loss, not just minor damage.
+- <img width="900" height="600" alt="12" src="https://github.com/user-attachments/assets/4c25c99f-976f-4162-add8-9eaa75cc9f11" />
+---
+
+## 🚗 Primary Contributory Causes (Top Causes)
+
+- The most common category is **Unable to Determine**, which suggests many cases lack a clear reported cause.
+- Among identified causes, **Failing to Yield Right-of-Way** and **Following Too Closely** are major contributors.
+- **Disregarding Traffic Signals** and **Failing to Reduce Speed to Avoid a Crash** also appear frequently.
+- These results highlight driver behavior as a major factor in accident occurrence.
+  <img width="1200" height="800" alt="13" src="https://github.com/user-attachments/assets/5a67d8b5-8da0-4b8a-8654-6304cf2c271e" />
+
+---
+## ⚠️ Primary Contributory Causes (Least Common Causes)
+
+- Rare causes include **Animal**, **Obstructed Crosswalks**, and **Passing Stopped School Bus**.
+- **Motorcycle Advancing Legally on Red Light** appears as the least frequent category.
+- These events occur far less often than common driver-related causes.
+- This section shows that unusual road situations contribute to only a small share of crashes.
+
+<img width="1200" height="800" alt="14" src="https://github.com/user-attachments/assets/ec25c673-02bf-46e4-b7cb-7e10ea93d052" />
+
+
+---
+## 📅 Crash Distribution by Month
+
+
+- Crashes are highest in **October**, followed by **September** and **December**.
+- The lowest counts appear in the early months, especially **February**.
+- The chart suggests a seasonal pattern in accident frequency.
+- Late-year months may have slightly higher risk due to traffic volume, weather, or travel activity.
+
+  <img width="869" height="552" alt="15" src="https://github.com/user-attachments/assets/c71e0295-fad4-475d-8f88-362c66cf14bc" />
 
 ---
 
@@ -94,7 +134,9 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Other major types:
   - Angle crashes  
   - Rear-end collisions  
-  - Sideswipe accidents  
+  - Sideswipe accidents
+  - <img width="1000" height="600" alt="5" src="https://github.com/user-attachments/assets/3d1dd14d-78b7-4f6c-8b5b-669da748480b" />
+
 
 
 ---
