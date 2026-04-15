@@ -58,6 +58,8 @@ The analysis focuses on accident trends, severity, and contributing factors, whi
 - Peak accident hour: **17 (5 PM)** — Rush hour  
 - Lowest accident hour: **4 AM** — Minimal traffic  
 - Accidents occur throughout **all days and months**
+- <img width="1280" height="450" alt="1" src="https://github.com/user-attachments/assets/53093dbf-0496-4406-aa3f-de6bc2dc0075" />
+
 
 ---
 
